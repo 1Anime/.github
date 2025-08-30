@@ -25,7 +25,7 @@ Welcome to the official GitHub organization for [1Anime](https://1ani.me)! We ar
 
 ## Contributing
 
-We welcome contributions from everyone! If you're interested in contributing to our public projects, please check out our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get started. <br>
+We welcome contributions from everyone! If you're interested in contributing to our public projects, please check out our [Contributing Guidelines](https://1ani.me/docs/contribute) for more information on how to get started. <br>
 If you want to contribute to our private projects or have specific ideas in mind, please reach out to us directly at [support@1anime.app](mailto:support@1anime.app) or at our [Discord server](https://dsc.gg/1anime).
 
 ## Contact
